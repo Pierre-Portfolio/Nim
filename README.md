@@ -19,4 +19,4 @@
 
 ## Auteur
 - [@Pierre](https://github.com/Pierre-Portfolio)
-- [@Pierre](https://github.com/nessotrin)
+- [@Nessotrin](https://github.com/nessotrin)
