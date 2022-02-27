@@ -7,8 +7,8 @@
 # JEUX DE NIM
 
 ## Règle du jeux
-- Les joueurs tirent à tour de rôle autant de bâtonnets qu’ils souhaitent dans 3 tas distincts. 
-- Le joueur qui retire le dernier bâtonnet gagne la partie.
+- Les joueurs tirent à tour de rôle de un à quatre bâtonnets dans trois tas distincts. 
+- Le joueur qui retire le dernier bâtonnet gagne.
 
 ## Techno
 - C++
